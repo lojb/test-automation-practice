@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56c5d048-528f-4699-a9a7-83e7922dc9c4" name="Changes" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2voPu9S4nSrWQYywyaN7miDF5Jb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.DeleteAccountClass.executor": "Run",
+    "TestNG.DeleteAccountTest.executor": "Run",
+    "TestNG.HealthTest.executor": "Run",
+    "TestNG.HealthTest.testHealth.executor": "Run",
+    "TestNG.LoginAPITest.executor": "Run",
+    "TestNG.LoginAPITest.testLogin.executor": "Run",
+    "TestNG.LoginAPITest.testLoginInvalidPassword.executor": "Run",
+    "TestNG.LoginAPITest.testLoginSuccess.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.testInvalidUsername.executor": "Run",
+    "TestNG.LoginTest.testLogin.executor": "Run",
+    "TestNG.LoginTest.testSuccessfulLogin.executor": "Run",
+    "TestNG.LoginTest.testUnsuccessfulLogin.executor": "Run",
+    "TestNG.LogoutTest.executor": "Run",
+    "TestNG.LogoutTest.testLogoutUserInvalidToken.executor": "Run",
+    "TestNG.LogoutTest.testLogoutUserNoToken.executor": "Run",
+    "TestNG.LogoutTest.testLogoutUserSuccess.executor": "Run",
+    "TestNG.PasswordTest.executor": "Run",
+    "TestNG.PasswordTest.testForgotPasswordEmptyEmail.executor": "Run",
+    "TestNG.PasswordTest.testForgotPasswordSuccess.executor": "Run",
+    "TestNG.PasswordTest.testVerifyResetTokenSuccess.executor": "Run",
+    "TestNG.ProfileTest.executor": "Run",
+    "TestNG.ProfileTest.testGetProfile.executor": "Run",
+    "TestNG.ProfileTest.testGetProfileSuccess.executor": "Run",
+    "TestNG.ProfileTest.testGetProfileUnauthorizedMissingToken.executor": "Run",
+    "TestNG.ProfileTest.testPatchProfile.executor": "Run",
+    "TestNG.ProfileTest.testPatchProfileMissingName.executor": "Run",
+    "TestNG.ProfileTest.testPatchProfileSuccessfulNameChange.executor": "Run",
+    "TestNG.ProfileTest.testPatchProfileUnauthorized.executor": "Run",
+    "TestNG.ProfileTest.testProfileBadRequest.executor": "Run",
+    "TestNG.ProfileTest.testProfileSuccess.executor": "Run",
+    "TestNG.ProfileTest.testProfileUnauthorized.executor": "Run",
+    "TestNG.ProfileTest.testProfileUnauthorizedMissingToken.executor": "Run",
+    "TestNG.ProfileTest.testProfileUnauthorizedWrongToken.executor": "Run",
+    "TestNG.RegisterAPITest.executor": "Run",
+    "TestNG.RegisterAPITest.testRegisterSuccess.executor": "Run",
+    "TestNG.RegisterAPITest.testRegisterUser.executor": "Run",
+    "TestNG.RegisterTest.executor": "Run",
+    "TestNG.RegisterTest.testMissingPassword.executor": "Run",
+    "TestNG.RegisterTest.testMissingUsername.executor": "Run",
+    "TestNG.RegisterTest.testNonMatchingPasswords.executor": "Run",
+    "TestNG.RegisterTest.testSuccessfulRegister.executor": "Run",
+    "TestNG.UsersTest (1).executor": "Debug",
+    "TestNG.UsersTest.executor": "Run",
+    "TestNG.UsersTest.testInvalidLogin.executor": "Run",
+    "TestNG.UsersTest.testLoginInvalidPassword.executor": "Run",
+    "TestNG.UsersTest.testLoginSuccess.executor": "Run",
+    "TestNG.UsersTest.testRegisterInvalidEmail.executor": "Run",
+    "TestNG.UsersTest.testRegisterInvalidInput.executor": "Run",
+    "TestNG.UsersTest.testRegisterInvalidPassword.executor": "Run",
+    "TestNG.UsersTest.testRegisterInvalidUsername.executor": "Run",
+    "TestNG.UsersTest.testRegisterSuccess.executor": "Run",
+    "TestNG.api.executor": "Run",
+    "TestNG.api.users.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Projects/test-automation-practice",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.api.users">
+    <configuration name="ProfileTest.testGetProfile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-automation-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.users" />
+      <option name="MAIN_CLASS_NAME" value="api.users.ProfileTest" />
+      <option name="METHOD_NAME" value="testGetProfile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfileTest.testPatchProfile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-automation-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.users" />
+      <option name="MAIN_CLASS_NAME" value="api.users.ProfileTest" />
+      <option name="METHOD_NAME" value="testPatchProfile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterAPITest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-automation-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.users" />
+      <option name="MAIN_CLASS_NAME" value="api.users.RegisterAPITest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterAPITest.testRegisterUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-automation-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.users" />
+      <option name="MAIN_CLASS_NAME" value="api.users.RegisterAPITest" />
+      <option name="METHOD_NAME" value="testRegisterUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="api.users" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-automation-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.users" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.api.users" />
+        <item itemvalue="TestNG.RegisterAPITest.testRegisterUser" />
+        <item itemvalue="TestNG.RegisterAPITest" />
+        <item itemvalue="TestNG.ProfileTest.testPatchProfile" />
+        <item itemvalue="TestNG.ProfileTest.testGetProfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56c5d048-528f-4699-a9a7-83e7922dc9c4" name="Changes" comment="" />
+      <created>1744808675489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744808675489</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1750445167617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750445167617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
